@@ -1,0 +1,21 @@
+module segCdec
+(
+	input [3:0] D,
+	output segC
+);
+
+  //////////////////////////////////////////
+  // Declare any needed internal signals //
+  ////////////////////////////////////////
+  logic notD2, notD0;
+
+  
+  //////////////////////////////////////////////////////
+  // Write STRUCTURAL verilog to implement segment C //
+  ////////////////////////////////////////////////////
+  not iNOT1(notD2, D[2]);
+  not iNOT2(notD0, D[0]);
+  and iAND1(segC, notD2, notD0, D[1]);
+
+  
+endmodule

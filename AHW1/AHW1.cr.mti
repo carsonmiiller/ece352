@@ -1,0 +1,43 @@
+C:/Users/carso/OneDrive/Desktop/352/AHW1/FA_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW1/FA_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module FA_tb
+
+Top level modules:
+	FA_tb
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA16.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA16.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA16
+
+Top level modules:
+	RCA16
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA16_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA16_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA16_tb
+
+Top level modules:
+	RCA16_tb
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA4.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA4.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA4
+
+Top level modules:
+	RCA4
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW1/FA.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW1/FA.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA4_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW1/RCA4_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA4_tb
+
+Top level modules:
+	RCA4_tb
+
+} {} {}}

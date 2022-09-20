@@ -1,0 +1,139 @@
+C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt.sv {0 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module BCDcnt
+** Error: (vlog-13069) C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt.sv(26): near "?": syntax error, unexpected '?', expecting ')'.
+
+
+} {4.0 5.0} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/segDdec.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/segDdec.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segDdec
+
+Top level modules:
+	segDdec
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/FA.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/FA.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/segEdec.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/segEdec.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segEdec
+
+Top level modules:
+	segEdec
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/segFdec.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/segFdec.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segFdec
+
+Top level modules:
+	segFdec
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module state6_reg_tb
+
+Top level modules:
+	state6_reg_tb
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/RCA4.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/RCA4.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA4
+
+Top level modules:
+	RCA4
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module BCDcnt_tb
+
+Top level modules:
+	BCDcnt_tb
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rise_edge_detect_tb
+
+Top level modules:
+	rise_edge_detect_tb
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module d_en_ff_tb
+
+Top level modules:
+	d_en_ff_tb
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rise_edge_detect
+
+Top level modules:
+	rise_edge_detect
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/bcd7seg.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/bcd7seg.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module bcd7seg
+
+Top level modules:
+	bcd7seg
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/d_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/d_ff.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff.sv {0 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module d_en_ff
+** Error: (vlog-13069) C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff.sv(32): near "?": syntax error, unexpected '?', expecting ')'.
+
+
+} {4.0 5.0} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module BCDinc
+
+Top level modules:
+	BCDinc
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module state6_reg
+
+Top level modules:
+	state6_reg
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/segAdec.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/segAdec.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segAdec
+
+Top level modules:
+	segAdec
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/segBdec.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/segBdec.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segBdec
+
+Top level modules:
+	segBdec
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/AHW3_top.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/AHW3_top.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module AHW3_top
+
+Top level modules:
+	AHW3_top
+
+} {} {}} C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc2.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc2.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module BCDinc2
+
+Top level modules:
+	BCDinc2
+
+} {} {}}

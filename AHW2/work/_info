@@ -1,0 +1,767 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/carso/OneDrive/Desktop/352/AHW1
+vAHW2_top
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1634228438
+!i10b 1
+!s100 W>`0dlj9HPgi6ceiaihRP2
+IYFc546`^G^JAIRW3fONb11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 AHW2_top_sv_unit
+S1
+Z3 dC:/Users/carso/OneDrive/Desktop/352/AHW2
+Z4 w1634174317
+8C:/Users/carso/OneDrive/Desktop/352/AHW2/AHW2_top.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW2/AHW2_top.sv
+L0 1
+Z5 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z6 !s108 1634228438.000000
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW2/AHW2_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW2/AHW2_top.sv|
+!i113 1
+Z7 o-work work -sv
+n@a@h@w2_top
+vAHW3_top
+R0
+Z8 !s110 1635374964
+!i10b 1
+!s100 >BLQ[^>?UUdl7kcFLm4UD3
+Ii3b;MIPaIRn;NW]ez7UK_0
+R2
+!s105 AHW3_top_sv_unit
+S1
+R3
+Z9 w1635374066
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/AHW3_top.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/AHW3_top.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z10 !s108 1635374964.000000
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/AHW3_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/AHW3_top.sv|
+!i113 1
+R7
+n@a@h@w3_top
+vALU
+R0
+!s110 1635213582
+!i10b 1
+!s100 0>D?]NgJ_KTh1598G81OC3
+I3K_6Sk7PSo8a:D0Udf<4V3
+R2
+!s105 ALU_sv_unit
+S1
+R3
+w1635213064
+8C:/Users/carso/Downloads/ALU_cell/ALU.sv
+FC:/Users/carso/Downloads/ALU_cell/ALU.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z11 !s108 1635213582.000000
+!s107 C:/Users/carso/Downloads/ALU_cell/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/ALU_cell/ALU.sv|
+!i113 1
+R7
+n@a@l@u
+vALU_cell
+R0
+Z12 !s110 1635213583
+!i10b 1
+!s100 CWQ5@71@`OlQL<WB9LO4c3
+IW:j81A`@5fBEf3CY1TL2`2
+R2
+!s105 ALU_cell_sv_unit
+S1
+R3
+w1635213455
+8C:/Users/carso/Downloads/ALU_cell/ALU_cell.sv
+FC:/Users/carso/Downloads/ALU_cell/ALU_cell.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/carso/Downloads/ALU_cell/ALU_cell.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/ALU_cell/ALU_cell.sv|
+!i113 1
+R7
+n@a@l@u_cell
+vALU_tb
+R0
+R12
+!i10b 1
+!s100 RQ[iZ5z;akM<VX8<8d4HE0
+I>Dnefl246XFo6AH=NJ]DL2
+R2
+!s105 ALU_tb_sv_unit
+S1
+R3
+w1635209241
+8C:/Users/carso/Downloads/ALU_cell/ALU_tb.sv
+FC:/Users/carso/Downloads/ALU_cell/ALU_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1635213583.000000
+!s107 C:/Users/carso/Downloads/ALU_cell/ALU_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/ALU_cell/ALU_tb.sv|
+!i113 1
+R7
+n@a@l@u_tb
+vbcd7seg
+R0
+R8
+!i10b 1
+!s100 A9_l4LR0SC^SCzSNk0V]Y2
+IYWN@F0o1@4;MXRg:5g]Te2
+R2
+!s105 bcd7seg_sv_unit
+S1
+R3
+w1634176868
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/bcd7seg.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/bcd7seg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/bcd7seg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/bcd7seg.sv|
+!i113 1
+R7
+vbcd7seg_tb
+R0
+R1
+!i10b 1
+!s100 j;a^V7F29^aWPRc@QMVS]0
+IKYY:LA>^FYL643inU^o331
+R2
+!s105 bcd7seg_tb_sv_unit
+S1
+R3
+R4
+8C:/Users/carso/OneDrive/Desktop/352/AHW2/bcd7seg_tb.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW2/bcd7seg_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW2/bcd7seg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW2/bcd7seg_tb.sv|
+!i113 1
+R7
+vBCDcnt_tb
+R0
+R8
+!i10b 1
+!s100 QaHi9jUCm6JfF]F^ZoZFn1
+IH1U[hgHnE:Lb4Nb5EbagS1
+R2
+!s105 BCDcnt_tb_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt_tb.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDcnt_tb.sv|
+!i113 1
+R7
+n@b@c@dcnt_tb
+vBCDinc
+R0
+R8
+!i10b 1
+!s100 dDb364WcC5;YnmALAZCf32
+IA50WJ1<h][@oenNakCkkJ1
+R2
+!s105 BCDinc_sv_unit
+S1
+R3
+w1634228493
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc.sv|
+!i113 1
+R7
+n@b@c@dinc
+vBCDinc2
+R0
+R8
+!i10b 1
+!s100 P3FJNodzOUE5Kdmk0LMf>0
+I9@0_daB_gM3Cn2K[LO2ZD3
+R2
+!s105 BCDinc2_sv_unit
+S1
+R3
+w1634183785
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc2.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc2.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/BCDinc2.sv|
+!i113 1
+R7
+n@b@c@dinc2
+vBCDinc2_tb
+R0
+R1
+!i10b 1
+!s100 VG3TDAU3Yn>R;Zl;aj5XZ1
+I7RJMC^OgdI2XhCn11FCfF0
+R2
+!s105 BCDinc2_tb_sv_unit
+S1
+R3
+R4
+8C:/Users/carso/OneDrive/Desktop/352/AHW2/BCDinc2_tb.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW2/BCDinc2_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW2/BCDinc2_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW2/BCDinc2_tb.sv|
+!i113 1
+R7
+n@b@c@dinc2_tb
+vd_en_ff_tb
+R0
+R8
+!i10b 1
+!s100 TLQII>R69FY9j6:4D2ZJB2
+IX<YZoe2HlV:]1R_gT:mmY0
+R2
+!s105 d_en_ff_tb_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff_tb.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/d_en_ff_tb.sv|
+!i113 1
+R7
+vd_ff
+R0
+R8
+!i10b 1
+!s100 ;70iHO>zX^JT]4FimOiJ60
+IYIoe]DOGWaZJm>OXJl^o82
+R2
+!s105 d_ff_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/d_ff.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/d_ff.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/d_ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/d_ff.sv|
+!i113 1
+R7
+vFA
+R0
+R8
+!i10b 1
+!s100 5g1?n34fObNLYKlbSPUXN0
+IObl<U2Ed]A:Nb_:Z4Pb;i1
+R2
+!s105 FA_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/FA.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/FA.sv
+L0 5
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/FA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/FA.sv|
+!i113 1
+R7
+n@f@a
+vfunc_3LUTs
+R0
+Z13 !s110 1634518528
+!i10b 1
+!s100 TUlak;9T_3YP0k8Zgn14Z2
+IUK?4ZPU1TgbM<^W5cEO?N3
+R2
+!s105 func_3LUTs_sv_unit
+S1
+R3
+w1634518328
+8C:/Users/carso/Downloads/func_3LUTs.sv
+FC:/Users/carso/Downloads/func_3LUTs.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z14 !s108 1634518528.000000
+!s107 C:/Users/carso/Downloads/func_3LUTs.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/func_3LUTs.sv|
+!i113 1
+R7
+nfunc_3@l@u@ts
+vfunc_3LUTs_tb
+R0
+R13
+!i10b 1
+!s100 ]dVh^:NzfjIO2@YZ1fg8S3
+ITh;^Zc]5hkJ``bmcIWj1n0
+R2
+!s105 func_3LUTs_tb_sv_unit
+S1
+R3
+w1634518421
+8C:/Users/carso/Downloads/func_3LUTs_tb.sv
+FC:/Users/carso/Downloads/func_3LUTs_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/carso/Downloads/func_3LUTs_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/func_3LUTs_tb.sv|
+!i113 1
+R7
+nfunc_3@l@u@ts_tb
+vfunc_mux4
+R0
+Z15 !s110 1634516602
+!i10b 1
+!s100 z0IOPB5cldSJcL09`ZA^>2
+I_X8[3YU[3WILf2SR2R]`i3
+R2
+Z16 !s105 func_mux4_sv_unit
+S1
+R3
+Z17 w1634516532
+Z18 8C:/Users/carso/Downloads/func_mux4.sv
+Z19 FC:/Users/carso/Downloads/func_mux4.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z20 !s108 1634516602.000000
+Z21 !s107 C:/Users/carso/Downloads/func_mux4.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/func_mux4.sv|
+!i113 1
+R7
+vfunc_mux4_tb
+R0
+R15
+!i10b 1
+!s100 dWBPFFPfm=m8bBg`=j^NE2
+I2_YieLUSAi[L5;YEM;Ujc2
+R2
+!s105 func_mux4_tb_sv_unit
+S1
+R3
+w1634515061
+8C:/Users/carso/Downloads/func_mux4_tb.sv
+FC:/Users/carso/Downloads/func_mux4_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/carso/Downloads/func_mux4_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/func_mux4_tb.sv|
+!i113 1
+R7
+vLUT3
+R0
+R13
+!i10b 1
+!s100 JYhc@3OKH9a>4k:=hY:Hd2
+IfcIE9:[8fn?<D:4OcKciA3
+R2
+!s105 LUT3_sv_unit
+S1
+R3
+w1634517021
+8C:/Users/carso/Downloads/LUT3.sv
+FC:/Users/carso/Downloads/LUT3.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1634518527.000000
+!s107 C:/Users/carso/Downloads/LUT3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/Downloads/LUT3.sv|
+!i113 1
+R7
+n@l@u@t3
+vmux4_2_1
+R0
+R15
+!i10b 1
+!s100 7iC4gWOc_gPT;bDIdIN>h0
+I689n4>VUM4dhG7ZAGeC_U3
+R2
+R16
+S1
+R3
+R17
+R18
+R19
+L0 36
+R5
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R7
+vRCA4
+R0
+R8
+!i10b 1
+!s100 gU]T>_kgidX?EWlF3MP2Y2
+Ic;KAc:Z;Y_Ee`cEkhTaAg1
+R2
+!s105 RCA4_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/RCA4.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/RCA4.sv
+L0 5
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/RCA4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/RCA4.sv|
+!i113 1
+R7
+n@r@c@a4
+vrise_edge_detect
+R0
+!s110 1635375130
+!i10b 1
+!s100 1O^mOmKnT@OJ<Ed4BLMeO1
+IY_S`Z=GPV:c[B9Wi3G2W73
+R2
+!s105 rise_edge_detect_sv_unit
+S1
+R3
+w1635375124
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect.sv
+L0 5
+R5
+r1
+!s85 0
+31
+!s108 1635375130.000000
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect.sv|
+!i113 1
+R7
+vrise_edge_detect_tb
+R0
+Z23 !s110 1635374965
+!i10b 1
+!s100 ATZl0Kd@AcIecXJlFPLS90
+IA;bLk=_Ej2VR0a;Bej44A2
+R2
+!s105 rise_edge_detect_tb_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect_tb.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z24 !s108 1635374965.000000
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/rise_edge_detect_tb.sv|
+!i113 1
+R7
+vsegAdec
+R0
+R23
+!i10b 1
+!s100 @la9f9V`WPnAl=<kW8iSl0
+ILgzf03[Mz8SE_=cGFTR5R1
+R2
+!s105 segAdec_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/segAdec.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/segAdec.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/segAdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/segAdec.sv|
+!i113 1
+R7
+nseg@adec
+vsegBdec
+R0
+R23
+!i10b 1
+!s100 ;]aA:hKZDmijUA^fPSN5=0
+IF7e4]<0BOTN9g22JTQb`J2
+R2
+!s105 segBdec_sv_unit
+S1
+R3
+R4
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/segBdec.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/segBdec.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/segBdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/segBdec.sv|
+!i113 1
+R7
+nseg@bdec
+vsegCdec
+R0
+!s110 1634228439
+!i10b 1
+!s100 Sl96:GnP]U>XBSBUa5J=[3
+I:O?iH;km?iIQohmH7Z0fz0
+R2
+!s105 segCdec_sv_unit
+S1
+R3
+w1634175528
+8C:/Users/carso/OneDrive/Desktop/352/AHW2/segCdec.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW2/segCdec.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1634228439.000000
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW2/segCdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW2/segCdec.sv|
+!i113 1
+R7
+nseg@cdec
+vsegDdec
+R0
+R23
+!i10b 1
+!s100 JCk7G<44@5K;5TIEAM1EW0
+I]VeU]DhgiSj]GY64WboCD1
+R2
+!s105 segDdec_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/segDdec.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/segDdec.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/segDdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/segDdec.sv|
+!i113 1
+R7
+nseg@ddec
+vsegEdec
+R0
+R23
+!i10b 1
+!s100 i;D3cd^dQD<YaWQ7H5=f_2
+Id9CK07h1>CiN0J;iQFRjk0
+R2
+!s105 segEdec_sv_unit
+S1
+R3
+R4
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/segEdec.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/segEdec.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/segEdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/segEdec.sv|
+!i113 1
+R7
+nseg@edec
+vsegFdec
+R0
+R23
+!i10b 1
+!s100 S0]^G2J4j]QElN0DSj[ID1
+I[@RalGUf_Hh`[RaN60U;F1
+R2
+!s105 segFdec_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/segFdec.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/segFdec.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/segFdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/segFdec.sv|
+!i113 1
+R7
+nseg@fdec
+vsegGdec
+R0
+R1
+!i10b 1
+!s100 `=JXIYE>SnHj56<dX2iFA2
+I?aJG5a?61F6@LIjdFPMOJ1
+R2
+!s105 segGdec_sv_unit
+S1
+R3
+w1634175527
+8C:/Users/carso/OneDrive/Desktop/352/AHW2/segGdec.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW2/segGdec.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW2/segGdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW2/segGdec.sv|
+!i113 1
+R7
+nseg@gdec
+vstate6_reg
+R0
+R23
+!i10b 1
+!s100 Z4DMMinWJ^`QoRY0?;0Vh0
+I0>4IPEm=JYIgGL@:CIR^c1
+R2
+!s105 state6_reg_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg.sv
+L0 9
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg.sv|
+!i113 1
+R7
+vstate6_reg_tb
+R0
+R8
+!i10b 1
+!s100 :`]Q4c`C2;k9W@SKXLOM92
+I3C@g01W0`mG2Cm=QJ>j_F2
+R2
+!s105 state6_reg_tb_sv_unit
+S1
+R3
+R9
+8C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg_tb.sv
+FC:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carso/OneDrive/Desktop/352/AHW3/state6_reg_tb.sv|
+!i113 1
+R7

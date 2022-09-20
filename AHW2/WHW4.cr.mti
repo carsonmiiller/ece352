@@ -1,0 +1,16 @@
+C:/Users/carso/Downloads/func_mux4.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/Downloads/func_mux4.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module func_mux4
+-- Compiling module mux4_2_1
+
+Top level modules:
+	func_mux4
+
+} {} {}} C:/Users/carso/Downloads/func_mux4_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/Downloads/func_mux4_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module func_mux4_tb
+
+Top level modules:
+	func_mux4_tb
+
+} {} {}}

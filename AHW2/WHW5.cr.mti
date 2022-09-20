@@ -1,0 +1,23 @@
+C:/Users/carso/Downloads/ALU_cell/ALU_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/Downloads/ALU_cell/ALU_tb.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/carso/Downloads/ALU_cell/ALU_cell.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/Downloads/ALU_cell/ALU_cell.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ALU_cell
+-- Compiling module FA
+
+Top level modules:
+	ALU_cell
+
+} {} {}} C:/Users/carso/Downloads/ALU_cell/ALU.sv {1 {vlog -work work -sv -stats=none C:/Users/carso/Downloads/ALU_cell/ALU.sv
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
